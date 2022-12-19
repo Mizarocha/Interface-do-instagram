@@ -2,8 +2,8 @@
 
 Recriando a página inicial do Instagram
 
-Nesse projeto foi reconstruido a página de login 
-do Instagram, com os requesitos HTML E CSS, e para 
+Nesse projeto foi reconstruído a página de login 
+do Instagram, com os requisitos HTML E CSS, e para 
 isso é recomendado o uso de CSS com Flexbox, 
 uma das abordagens de posicionamento de elementos 
 mais utilizadas 
